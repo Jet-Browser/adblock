@@ -1,5 +1,4 @@
-#JavaScript - AdBlocker
-AdBlocker - Chrome manifest v3
+#JavaScript - AdBlocker - Chrome manifest v3
 
 AdBlocker - Chrome manifest v3 This ad blocker is written in javascript     
 programming language for chrome - manifest v3
